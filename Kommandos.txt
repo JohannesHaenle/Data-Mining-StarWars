@@ -1,0 +1,8 @@
+git add .
+git commit -m "Erster Commit"
+git push origin main
+
+git config --global user.name "Ihr Name"
+git config --global user.email "ihre.email@beispiel.com"
+
+git pull origin main #Änderungen im Repository werden ins lokale Verzeichnis übernommen
